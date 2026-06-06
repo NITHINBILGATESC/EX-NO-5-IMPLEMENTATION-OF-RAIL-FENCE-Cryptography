@@ -1,4 +1,9 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
+## NAME: NITHIN BILGATES C
+## REGISTER NO: 2305001022
+
+
+
 
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
@@ -66,6 +71,7 @@ int main()
 ```
 ## OUTPUT
 
+<img width="665" height="260" alt="Screenshot 2026-06-06 212437" src="https://github.com/user-attachments/assets/3f41e304-08ad-444d-a348-885efafb2881" />
 
 ## RESULT
 Hence the experiment has been executed successfully
